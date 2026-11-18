@@ -1,5 +1,5 @@
-ZIGZIG Codex beta PWA
-
-Upload all files in this folder together to an HTTPS static website host (e.g. GitHub Pages or Cloudflare Pages). Open its HTTPS URL in iPhone Safari, tap Share > Add to Home Screen > Open as Web App. The local HTML file is only a preview; offline caching requires HTTPS hosting and an initial online visit.
-
-Codes are unverified against your particular ROM. Back up your save before use. Unofficial fan project, not affiliated with Nintendo or The Pokémon Company. No payment or advertising is implemented.
+ZIGZIG Codex 2.0 — Hybrid UI
+Upload these files into the ROOT of your existing zigzig-codex GitHub repository, replacing files with matching names. Keep your existing README.md.
+Existing cheat code entries are carried forward from the previous PWA starter unchanged; they are NOT independently verified.
+Favourites from Beta 1 used unstable IDs, so the new version uses stable IDs and starts with a new favourites collection.
+Do not upload the ZIP itself.
