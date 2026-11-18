@@ -1,0 +1,24 @@
+{
+  "name": "ZIGZIG Codex \u2014 Emerald Cheat Reference",
+  "short_name": "ZIGZIG Codex",
+  "description": "Offline-friendly cheat reference for Pok\u00e9mon Emerald. Unofficial fan utility.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091c19",
+  "theme_color": "#091c19",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
